@@ -18,7 +18,6 @@ while (*s != '\0')
 		if (*s == *accept)
 			break;
 			count++;
-			accept++;
 
 			s++;
 
